@@ -1,1 +1,1 @@
-GET https://protected-earth-34181.herokuapp.com/api/persons
+GET http://localhost:3001/api/persons
